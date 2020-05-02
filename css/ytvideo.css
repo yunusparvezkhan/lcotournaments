@@ -1,0 +1,47 @@
+#our-videos-txt{
+  font-size: 50px;
+  font-family: Calibri;
+  color:#000000;
+  font-weight: 400;
+  position: absolute;
+  top:4300px;
+  left:0;
+  width:100%;
+  text-align: center;
+
+}
+
+
+#yt-video{
+  width:700px;
+  height:394px;
+  position: absolute;
+  top:4400px;
+  left:50%;
+  transform:translate(-50%);
+}
+
+#yt-subscribe-btn{
+  display: block;
+  width:250px;
+  height:50px;
+  border-radius: 40px;
+  border:none;
+  background-color:#FF5656;
+  color:#ffffff;
+  font-size: 20px;
+  font-family: Segoe UI;
+  text-align: center;
+  position: absolute;
+  top:4850px;
+  left:50%;
+  transform:translate(-50%);
+  box-shadow: 0 10px 40px 5px #6B6B6B;
+  transition: 0.5s;
+  outline:none;
+  cursor:pointer;
+}
+#yt-subscribe-btn:hover{
+  background-color: #D52626;
+  font-size: 21px;
+}

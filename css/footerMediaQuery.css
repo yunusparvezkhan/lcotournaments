@@ -1,0 +1,50 @@
+@media (max-width:800px) {
+  .logofooter{
+    display: none;
+  }
+}
+@media (max-width:700px) {
+   #footer-notice{
+     width:70%;
+   }
+}
+
+
+@media (max-width:500px) {
+   #footer-notice{
+     width:60%;
+   }
+   footer{
+     height: 400px;
+   }
+}
+
+@media (max-width:400px) {
+    #footer-notice-heading{
+      left: 0;
+      width: 100%;
+      text-align: center;
+    }
+
+   #footer-notice{
+     width:80%;
+     top:40px;
+     left: 50%;
+     transform:translate(-50%);
+   }
+   footer{
+     height: 450px;
+   }
+}
+
+@media (max-width:300px) {
+      footer{
+        height: 500px;
+      }
+}
+
+@media (max-width:250px) {
+      footer{
+        height: 600px;
+      }
+}

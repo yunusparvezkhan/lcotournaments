@@ -1,0 +1,121 @@
+#menu-popup{
+  display: block;
+  width: 350px;
+  height: 100vh;
+  position: fixed;
+  top: 45px;
+  left:0;
+  background: #ffffff;
+  transform: translate(-100%);
+}
+
+#menu-logo{
+  display: block;
+  width: 40px;
+  height: auto;
+  position: absolute;
+  top:30px;
+  right: 30px;
+  transform:translate(0,-50%);
+}
+#menu-heading{
+  display: block;
+  font-size: 20px;
+  font-family:Segoe UI;
+  font-weight: 400;
+  position: absolute;
+  top:30px;
+  left: 20px;
+  transform: translate(0,-50%);
+  color: #000;
+}
+#menu-heading-hr{
+  display: block;
+  width: 99%;
+  height:0px;
+  position: absolute;
+  top: 60px;
+  left: 0;
+  border:0.5px solid #888888;
+}
+
+#menu-about-btn{
+    display: block;
+    width:100%;
+    height:50px;
+    background-color: transparent;
+    border-top: none;
+    border-bottom: 2px solid #505050;
+    border-left:none;
+    border-right:none;
+    position: absolute;
+    top: 60px;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 30px;
+    outline:none;
+}
+#menu-tournaments-btn{
+    display: block;
+    width:100%;
+    height:50px;
+    background-color: transparent;
+    border-top: none;
+    border-bottom: 2px solid #505050;
+    border-left:none;
+    border-right:none;
+    position: absolute;
+    top: 110px;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 30px;
+    outline:none;
+}
+#menu-login-btn{
+    display: block;
+    width:100%;
+    height:50px;
+    background-color: transparent;
+    border-top: none;
+    border-bottom: 2px solid #505050;
+    border-left:none;
+    border-right:none;
+    position: absolute;
+    top: 160px;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 30px;
+    outline:none;
+}
+#menu-contact-btn{
+    display: block;
+    width:100%;
+    height:50px;
+    background-color: transparent;
+    border-top: none;
+    border-bottom: 2px solid #505050;
+    border-left:none;
+    border-right:none;
+    position: absolute;
+    top: 210px;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 30px;
+    outline:none;
+}
+#menu-faq-btn{
+    display: block;
+    width:100%;
+    height:50px;
+    background-color: transparent;
+    border-top: none;
+    border-bottom: 2px solid #505050;
+    border-left:none;
+    border-right:none;
+    position: absolute;
+    top: 260px;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 30px;
+    outline:none;
+}

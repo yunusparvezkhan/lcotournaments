@@ -1,0 +1,63 @@
+#sponsor-nike{
+  display: block;
+  width: 150px;
+  height:auto;
+  position: absolute;
+  top: 5400px;
+  left:10%;
+  transform:translate(-50%,-50%);
+}
+#sponsor-mountainDew{
+  display: block;
+  width: 150px;
+  height:auto;
+  position: absolute;
+  top: 5400px;
+  left:30%;
+  transform:translate(-50%,-50%);
+}
+#sponsor-too-yumm{
+  display: block;
+  width: 150px;
+  height:auto;
+  position: absolute;
+  top: 5400px;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+#sponsor-dolotara{
+  display: block;
+  width: 200px;
+  height:auto;
+  position: absolute;
+  top: 5400px;
+  left:70%;
+  transform:translate(-50%,-50%);
+}
+#sponsor-siyago{
+  display: block;
+  width: 150px;
+  height:auto;
+  position: absolute;
+  top: 5400px;
+  left:90%;
+  transform:translate(-50%,-50%);
+}
+#sponsor-oppo{
+  display: block;
+  width: 200px;
+  height:auto;
+  position: absolute;
+  top: 5600px;
+  left:35%;
+  transform:translate(-50%,-50%);
+}
+#sponsor-vivo{
+  display: block;
+  width: 200px;
+  height:auto;
+  position: absolute;
+  top: 5600px;
+  left:65%;
+  transform:translate(-50%,-50%);
+}

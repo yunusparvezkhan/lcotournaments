@@ -1,0 +1,250 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background-color:#23A7FF;
+}
+footer{
+  top: 1000px;
+}
+#login-frame{
+  display: block;
+  width:550px;
+  height: 850px;
+  background: transparent;
+  position: absolute;
+  top:50px;
+  left:50%;
+  transform:translate(-50%);
+}
+#login-box{
+  display: block;
+  width:80%;
+  height:auto;
+  position: absolute;
+  top:0;
+  left:50%;
+  transform:translate(-50%);
+}
+#login-heading{
+  font-size: 40px;
+  font-family:Algerian;
+  font-weight:300;
+  position: absolute;
+  top:20px;
+  left:50%;
+  transform:translate(-50%);
+  color:#ffffff;
+}
+#toggle-box{
+  display: block;
+  width:230px;
+  height: 35px;
+  position: absolute;
+  top:100px;
+  left:50%;
+  transform:translate(-50%);
+  background: #FF7272;
+  border-radius: 40px;
+  border:none;
+}
+#toggle-btn-box{
+  display: block;
+  width:90px;
+  height: 35px;
+  position: absolute;
+  top:50%;
+  left:0;
+  transform:translate(0, -50%);
+  background: linear-gradient(to right, #57D1FF, #A470FF);
+  border-radius: 40px;
+  border:none;
+  transition:0.5s;
+}
+#toggle-btn-1{
+  font-size: 13px;
+  width:65px;
+  text-align: center;
+  font-family: Bauhaus 93;
+  font-weight:400;
+  position: absolute;
+  top:50%;
+  left: 20%;
+  transform:translate(-50%,-50%);
+  cursor: pointer;
+  border: none;
+  background: none;
+  outline:none;
+  color:#fff;
+  transition:0.5s;
+}
+#toggle-btn-2{
+  font-size: 13px;
+  width:65px;
+  text-align: center;
+  font-family: Bauhaus 93;
+  font-weight:400;
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  outline:none;
+  transition:0.5s;
+}
+#toggle-btn-3{
+  display: inline;
+  width:65px;
+  text-align: center;
+  font-size: 13px;
+  font-family: Bauhaus 93;
+  font-weight:400;
+  position: absolute;
+  top:50%;
+  left: 80%;
+  transform:translate(-50%,-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  outline:none;
+  transition:0.5s;
+}
+
+
+input{
+  display: block;
+  width:200px;
+  height:30px;
+  position: absolute;
+  left:50%;
+  transform:translate(-50%);
+  border-radius: 10px;
+  border:3px solid #ffffff;
+  background: #252525;
+  text-align: center;
+  font-size: 15px;
+  color:#ffffff;
+  outline:none;
+  transition:0.5s;
+}
+
+#lbl-userid{
+  font-size: 13px;
+  font-family:Segoe UI;
+  font-weight: 400;
+  position: absolute;
+  top:160px;
+  left:180px;
+  color:#ffffff;
+  transition:0.5s;
+}
+
+#input-id{
+  top:180px;
+  transition:0.5s;
+}
+
+
+
+
+#lbl-pass{
+  font-size: 13px;
+  font-family:Segoe UI;
+  font-weight: 400;
+  position: absolute;
+  top:230px;
+  left:180px;
+  color:#ffffff;
+  transition:0.5s;
+}
+#input-pass{
+  top:250px;
+  transition:0.5s;
+}
+
+#login-btn{
+  display:block;
+  width: 100px;
+  height:33px;
+  position: absolute;
+  top:320px;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  border:none;
+  border-radius: 40px;
+  background-color: #3AF8AC;
+  color: #000000;
+  font-size: 12px;
+  font-family:segoe print;
+  font-weight: 600;
+  cursor: pointer;
+  outline-color:#fff;
+  transition:0.3s;
+}
+#login-btn:hover{
+  background-color: #F89664;
+  width:110px;
+  height:40px;
+  font-size: 20px;
+  color:#fff;
+}
+#singup-btn{
+  display: block;
+  width:130px;
+  height:35px;
+  background: skyblue;
+  color: #000000;
+  font-size: 13px;
+  font-family: segoe ui;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  top:430px;
+  left:50%;
+  transform:translate(-50%,-50%);
+  border:none;
+  border-radius: 40px;
+  transition: 0.3s;
+  cursor: pointer;
+  outline:none;
+}
+#singup-btn:hover{
+  background: darkblue;
+  color:#ffffff;
+  font-weight: 400;
+  font-style: normal;
+  font-family: SEGOE PRINT;
+  font-size: 20px;
+  width: 135px;
+  height:43px;
+}
+
+
+#back-to-home{
+  display:block;
+  width:250px;
+  height:50px;
+  position:absolute;
+  top:900px;
+  left:50%;
+  transform:translate(-50%);
+  text-align:center;
+  font-size:20px;
+  font-family:Segeo UI;
+  font-weight:400;
+  color:#ffffff;
+  border:none;
+  border-radius: 40px;
+  background: #EF4A5E;
+  transition: 0.3s;
+  cursor:pointer;
+  outline:none;
+}
+
+#back-to-home:hover{
+  background-color: #D52E40;
+  font-size: 23px;
+}
