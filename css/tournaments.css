@@ -45,9 +45,19 @@
   height:1200px;
   position: absolute;
   top: 100vh;
+  left:0;
+  background: #ffffff;
+}
+
+#text-box{
+  display: block;
+  width: 600px;
+  height: 600px;
+  position: absolute;
+  top:0px;
   left:50%;
   transform:translate(-50%);
-  background: #ffffff;
+  background-color: transparent;
 }
 footer{
   top:900px;
@@ -58,8 +68,9 @@ footer{
   font-weight:400;
   position: absolute;
   top:150px;
-  left:50%;
-  transform:translate(-50%);
+  left:0;
+  width: 100%;
+  text-align: center;
   color:#000000;
 }
 #heading-2{
@@ -68,8 +79,9 @@ footer{
   font-weight:400;
   position: absolute;
   top:260px;
-  left:50%;
-  transform:translate(-50%);
+  left:0;
+  width: 100%;
+  text-align: center;
   color:#000000;
 }
 #heading-3{
@@ -78,8 +90,9 @@ footer{
   font-weight:400;
   position: absolute;
   top:370px;
-  left:50%;
-  transform:translate(-50%);
+  left:0;
+  width: 100%;
+  text-align: center;
   color:#000000;
 }
 #body-container-txt{
@@ -87,10 +100,12 @@ footer{
   font-family: Segoe UI;
   font-weight:400;
   text-align: center;
+  width: 100%;
   position: absolute;
   top:450px;
-  left:50%;
-  transform:translate(-50%);
+  left:0;
+  width: 100%;
+  text-align: center;
   color:#000000;
 }
 #back-to-home{

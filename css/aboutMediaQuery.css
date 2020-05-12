@@ -1,0 +1,300 @@
+@media (max-width:1200px) {
+
+  #our-team-sec{
+    top: 600px;
+  }
+
+    #team-member-2{
+        left: 80%;
+    }
+    #team-member-3{
+        left:20%;
+    }
+
+    #team-member-4{
+        left: 65%;
+        top: 850px;
+        height:380px;
+        width:230px;
+    }
+    #team-member-5{
+        left: 35%;
+        top: 850px;
+        height:380px;
+        width:230px;
+    }
+
+    #questions-sec{
+      top: 1850px;
+    }
+
+    #photo-gallary-sec{
+      top:2750px;
+    }
+
+
+}
+
+
+
+@media (max-width:1000px) {
+
+
+      #our-services-sec{
+        width: 800px;
+        top: 50px;
+      }
+      #our-services-txt{
+        top: 100px;
+      }
+
+      #our-team-sec{
+        top: 600px;
+      }
+      #questions-sec{
+        top: 1850px;
+        width:800px;
+      }
+
+
+
+}
+
+
+@media (max-width:800px) {
+
+      #our-services-sec{
+        width:600px;
+      }
+      #our-team-sec{
+        top: 700px;
+      }
+
+      #team-member-1{
+        left: 30%;
+        width:230px;
+        height: 380px;
+      }
+      #team-member-2{
+        left: 70%;
+        width:230px;
+        height: 380px;
+      }
+      #team-member-3{
+        left: 30%;
+        width:230px;
+        height: 380px;
+        top: 850px;
+      }
+      #team-member-5{
+        left: 70%;
+        width:230px;
+        top: 850px;
+        height: 380px;
+      }
+      #team-member-4{
+        left: 50%;
+        width:240px;
+        top: 1300px;
+        height: 380px;
+      }
+
+
+      #questions-sec{
+        width: 600px;
+        top: 2500px;
+      }
+
+      #photo-gallary-sec{
+        top:3350px;
+      }
+
+      #last-quote-sec{
+        top: 4300px;
+      }
+
+      footer{
+        top: 5000px;
+      }
+
+      #back-to-home{
+        top: 4900px;
+      }
+
+      #body-container{
+          height: 5000px;
+      }
+}
+
+
+
+
+
+
+
+@media (max-width:700px) {
+  #photo-gallary-sec{
+    display: none;
+    }
+
+    #last-quote-sec{
+      top: 3400px;
+    }
+    footer{
+      top: 4100px;
+    }
+    #back-to-home{
+      top: 4000px;
+    }
+    #body-container{
+       height: 4300px;
+    }
+
+
+}
+
+
+
+
+@media (max-width:600px) {
+
+        #our-services-sec{
+            width: 400px;
+        }
+        #our-team-sec{
+          top: 900px;
+        }
+        #questions-sec{
+          top: 2500px;
+          width: 400px;
+        }
+        #last-quote-sec{
+          top: 3450px;
+        }
+
+
+        #team-member-1{
+          left: 25%;
+        }
+        #team-member-2{
+          left: 75%;
+        }
+
+        #team-member-3{
+          left: 25%;
+        }
+        #team-member-5{
+          left: 75%;
+        }
+
+
+
+
+        #questions-sec-ques-1{
+          font-size:25px;
+        }
+        #questions-sec-ques-1-txt{
+          font-size:18px;
+        }
+        #questions-sec-ques-2{
+          font-size:25px;
+          top: 450px;
+        }
+        #questions-sec-ques-2-txt{
+          font-size:18px;
+          top: 500px;
+        }
+        #book-btn{
+          top: 750px;
+        }
+}
+
+
+
+
+@media (max-width:500px) {
+          #our-team-sec{
+            top: 900px;
+          }
+          #team-member-1{
+            width: 220px;
+            height:350px;
+            left: 50%;
+          }
+          #team-member-2{
+            width: 220px;
+            height:350px;
+            left: 50%;
+            top: 780px;
+          }
+          #team-member-3{
+            width: 220px;
+            height:350px;
+            left: 50%;
+            top: 1200px;
+          }
+          #team-member-5{
+            width: 220px;
+            height:350px;
+            left: 50%;
+            top: 1580px;
+          }
+          #team-member-4{
+            width: 220px;
+            height:350px;
+            left: 50%;
+            top: 1950px;
+          }
+
+          #questions-sec{
+            top: 3200px;
+          }
+          #last-quote-sec{
+            top: 4100px;
+          }
+
+          #back-to-home{
+            top: 4600px;
+          }
+
+          footer{
+            top: 4700px;
+          }
+          #body-container{
+            height: 5000px;
+          }
+}
+
+
+
+
+@media (max-width:400px) {
+    #our-services-sec{
+      width: 350px;
+    }
+    #our-team-sec{
+      top: 1000px;
+    }
+    #questions-sec{
+      width: 350px;
+    }
+
+    #last-quote-sec-quote-line1{
+        left: 100px;
+    }
+    #last-quote-sec-quote-line5{
+         right: 100px;
+    }
+
+    #heading1{
+        font-size: 50px;
+    }
+    #heading2{
+        font-size: 25px;
+        top: 250px;
+    }
+
+
+
+
+}

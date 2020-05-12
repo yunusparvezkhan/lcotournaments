@@ -1,0 +1,44 @@
+@media (max-width:700px) {
+
+#body-container{
+  height: 700px;
+}
+    footer{
+      top: 700px;
+    }
+    #text-box{
+      width: 450px;
+    }
+    #heading-1{
+      font-size: 70px;
+      top: 80px;
+    }
+    #heading-2{
+      font-size: 50px;
+      top: 180px;
+    }
+    #heading-3{
+      font-size: 50px;
+      top: 270px;
+    }
+    #body-container-txt{
+      font-size: 20px;
+      top: 380px;
+    }
+    #back-to-home{
+      top: 600px;
+    }
+
+}
+
+@media (max-width:450px) {
+
+
+      #text-box{
+        width: 350px;
+      }
+      #bg-img-sec-heading-2{
+        font-size: 35px;
+      }
+
+}

@@ -3,8 +3,7 @@ footer{
   width:100%;
   height: 300px;
   position: absolute;
-  left:50%;
-  transform:translate(-50%);
+  left:0;
   background: #252525;
 }
 #copyright{
@@ -30,7 +29,7 @@ footer{
   font-family: serif;
   font-weight: 600px;
   color:#fafafa;
-  position: relative;
+  position: absolute;
   top: 20px;
   left:50px;
 }
@@ -41,7 +40,7 @@ footer{
   font-weight: 200px;
   color:#C1C1C1;
   position: relative;
-  top: 5px;
+  top: 25px;
   left:120px;
   width: 80%;
   text-align: justify;

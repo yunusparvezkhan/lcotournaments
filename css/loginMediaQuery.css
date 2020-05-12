@@ -1,0 +1,45 @@
+@media (max-width:420px) {
+    #login-frame{
+        width: 470px;
+    }
+
+    #toggle-box{
+      top: 80px;
+    }
+
+    #lbl-userid{
+      top: 130px;
+      left: 150px;
+    }
+
+    #input-id{
+       top: 150px;
+    }
+    #lbl-pass{
+      top: 200px;
+      left: 150px;
+    }
+
+    #input-pass{
+       top: 220px;
+    }
+    #login-btn{
+      top: 280px;
+      height: 25px;
+      width: 80px;
+    }
+    #singup-btn{
+      top: 350px;
+      height: 30px;
+      width: 100px;
+    }
+
+    #back-to-home{
+      top: 700px;
+    }
+    footer{
+      top: 800px;
+    }
+
+
+}
