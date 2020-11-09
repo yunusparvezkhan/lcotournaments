@@ -1,3 +1,3 @@
 # lcotournaments
 
-Live demo -- <a href="lcotournaments.netlify.app" target="_blank">Click Here </a>
+Live demo -- <a href="https://lcotournaments.netlify.app" target="_blank">Click Here </a>
